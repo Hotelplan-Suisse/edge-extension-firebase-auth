@@ -13,7 +13,7 @@ console.log("SignInProxy's ancestors: ", document.location.ancestorOrigins);
 
 const app = initializeApp({
     apiKey: "AIzaSyCfEHY2kSz_aB8tCSCtDJMzr5MPDjs-_kE",
-    authDomain: "hotelplan-suisse.github.io",
+    authDomain: "mtch-hsd-ask-test.firebaseapp.com",
 });
 
 const auth = getAuth(app);
