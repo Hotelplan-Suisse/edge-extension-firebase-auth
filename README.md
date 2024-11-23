@@ -1,2 +1,0 @@
-# edge-extension-firebase-auth
-✨
